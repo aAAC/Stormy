@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stormy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="data_retrieved_alertdialogue_title">YAHOOOOOOOOOOOOOOOOOO</string>
+    <string name="data_retrieved_alertdialogue_body">Congratulations! Data retrieved successfully.</string>
+    <string name="data_retrieved_alertdialogue_positiveButtonName">OK</string>
+</resources>
